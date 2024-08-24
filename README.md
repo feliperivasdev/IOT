@@ -1,5 +1,5 @@
 # IOT
-# OS Labs
+# IOT Labs
 
 ## Tabla de Contenido
 - [Lab 1 Arduino LED Controller](#lab-1-arduino-led-controller)
