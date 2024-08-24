@@ -142,7 +142,10 @@ El programa controla los LEDs para simular un semáforo con las siguientes etapa
 | LED amarillo | 13           |
 | LED verde  | 12             |
 
-Conecta cada LED a su respectivo pin en la placa Arduino, asegurándote de incluir una resistencia en serie para cada LED.
+Conecta cada LED a su respectivo pin en la placa Arduino, asegurándote de incluir una resistencia en serie para cada LED siguiendo el siguiente diagrama esquemático.
+
+![image](https://github.com/user-attachments/assets/42e5d2bf-7638-4c6f-904a-39ce279c45ef)
+
 
 ### 🚀 Uso
 
@@ -166,6 +169,9 @@ También puedes emular este proyecto en Tinkercad siguiendo estos pasos:
    - Añade 3 LEDs (rojo, amarillo y verde) y conéctalos a los pines correspondientes (11, 13 y 12).
    - Añade resistencias de 220 Ω a cada LED.
    - Conecta los LEDs y resistencias de acuerdo a las conexiones descritas en la sección **🔌 Conexiones**.
+   - Guiate de la siguiente imagen
+   - ![image](https://github.com/user-attachments/assets/7573a63e-b96a-4d46-a7f6-dc0d4410b3c4)
+
 
 4. **Carga el código:**
    - Haz clic en "Code" (Código) y selecciona "Blocks + Text" (Bloques + Texto) o "Text" (Texto).
