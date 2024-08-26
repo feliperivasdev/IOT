@@ -10,12 +10,12 @@
 
 void setup()
 {
-    Serial.begin(9600);         // Initialize serial communication at 9600
+    
     pinMode(RED_LED, OUTPUT);   // Set RED_LED pin as output
     pinMode(GREEN_LED, OUTPUT); // Set GREEN_LED pin as output
     pinMode(YELLOW_LED, OUTPUT); // Set YELLOW_LED pin as output
 
-    Serial.println("Semaphore simulation started.");
+   
 }
 
 void loop()
